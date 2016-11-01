@@ -1,7 +1,7 @@
 #include <string>
 #include <map>
 
-namespace WhatsApp
+namespace Facebook
 {
     class Client
     {
