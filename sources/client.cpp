@@ -1,6 +1,6 @@
-#include <WhatsApp/client.hpp>
+#include <Facebook/client.hpp>
 
-namespace Telegram
+namespace Facebook
 {
     Client::Client(dict_t settings)
     {
