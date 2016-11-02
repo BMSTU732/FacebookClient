@@ -1,5 +1,5 @@
-#ifndef VKCLIENT_CLIENT_HPP
-#define VKCLIENT_CLIENT_HPP
+#ifndef FACEBOOKCLIENT_CLIENT_HPP
+#define FACEBOOKCLIENT_CLIENT_HPP
 
 #include <string>
 #include <map>
