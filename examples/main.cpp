@@ -13,7 +13,8 @@ int main()
     if (fb_cl.check_connection())
         std::cout << "Connected." << std::endl;
 
-    fb_cl.get_friends();
+   
+    \\fb_cl.get_friends();
 
     return 0;
 }
