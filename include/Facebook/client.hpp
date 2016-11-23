@@ -1,6 +1,3 @@
-#ifndef FACEBOOKCLIENT_CLIENT_HPP
-#define FACEBOOKCLIENT_CLIENT_HPP
-
 #include <map>
 #include <string>
 #include <iostream>
